@@ -749,7 +749,7 @@ input[type="range"] {
 
 input:disabled {
     cursor: not-allowed !important;
-    color: $text-readOnly !important;
+    color: $text-readOnly;
 }
 
 input[type="range"].no-top-margin {
